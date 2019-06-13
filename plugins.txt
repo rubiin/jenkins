@@ -48,3 +48,4 @@ token-macro
 pipeline-stage-step
 blueocean
 blueocean-autofavorite
+gitlab-plugin
