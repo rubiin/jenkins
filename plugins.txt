@@ -5,6 +5,7 @@ branch-api
 cloudbees-folder
 credentials
 cvs
+docker
 durable-task
 external-monitor-job
 git-client
